@@ -6,3 +6,4 @@ App del equipo ABModel
 -Santiago De Leonardi
 -Verónica Cabral
 -Belen Vassel
+-Ignacio Faerman
