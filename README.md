@@ -8,3 +8,4 @@ App del equipo ABModel
 -Belen Vassel
 -Ignacio Faerman
 -Guevara Aylen
+-paola argento
