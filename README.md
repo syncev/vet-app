@@ -7,3 +7,4 @@ App del equipo ABModel
 -Verónica Cabral
 -Belen Vassel
 -Ignacio Faerman
+-Guevara Aylen
